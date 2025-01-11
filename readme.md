@@ -1,0 +1,3 @@
+- joggers
+- hiking boots
+- rug
