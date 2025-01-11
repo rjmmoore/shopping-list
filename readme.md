@@ -1,3 +1,5 @@
 - joggers
 - hiking boots
 - rug
+- lettuce
+- iodized salt
